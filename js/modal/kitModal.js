@@ -584,3 +584,4 @@ export async function setupKitModal(kit, isEdit = false) {
 
     return modal;
 }
+}
